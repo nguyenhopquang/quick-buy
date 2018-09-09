@@ -1,3 +1,4 @@
+# Chia sẻ Plugin mua hàng nhanh cho woocommerce – Woocommerce Quick buy
 # quick-buy
 * Plugin URI: http://levantoan.com/san-pham/plugin-mua-hang-nhanh-cho-woocommerce-woocommerce-quick-buy/
 
